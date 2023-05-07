@@ -1,0 +1,9 @@
+.cabeçalho
+{
+    background-color: rgb(255, 223, 184);
+    color: rgb(126, 106, 106);
+    display:flex;
+    padding:24px;
+    font-size:24px;
+    justify-content:space-around;
+}
